@@ -1,4 +1,4 @@
-# Online MD - Health Care System for DJCSI CodeShastra 4.0 (2018)
+# Online MD - Health Care System
 
 In a world of scarcity, saving lives is thin on the ground. Medical resource deficiency is a severe issue in India. Hundreds of patients lose their lives due to lack of access to apt information and amenities. Circumstances as such greatly emphasise the need for a centralised information reserve of medications, equipment, personal records and medical professionals available that is accessible and intelligible to anyone, at anytime and from anywhere. In such scenario our Online MD System helps the needy to get all the relevant and necessary information at one place which is an impactful solution to the critical problem mentioned above.
 The application renders the databases available at all times, from all places and to each and everyone who is in need of this information. In other words, the System focuses on centralizing or bringing together all the information related to medical which is spread across the entire web at one place for the patients, doctors, pharmacists and every other individual in the field of medicine.
@@ -69,6 +69,12 @@ Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watc
 * Admin LTE 2 Bootstrap Template
 * Google [Map](https://developers.google.com/maps/documentation/javascript/) & [Places API](https://developers.google.com/sheets/api/) 
 * Google [Sheet API](https://developers.google.com/sheets/api/)
+
+## Venue
+ DJCSI CodeShastra 4.0 (2018)
+ 
+ ## Timeline
+ 06-02-2018 - 20-02-2018
 
 
 ## Authors
