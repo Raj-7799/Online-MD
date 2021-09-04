@@ -79,7 +79,7 @@ Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watc
 
 ## Authors
 
-* **Raj Patel**  - [Raj-7799]()https://github.com/Raj-7799/)
+* **Raj Patel**  - [Raj-7799](https://github.com/Raj-7799/)
 * **Prathamesh Mhapsekar** - [prathmesh36](https://github.com/prathmesh36 )
 * **Mandar Mhapsekar** - [mandar10](https://github.com/mandar10)
 * **Akshay Jain**
